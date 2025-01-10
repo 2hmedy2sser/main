@@ -1,0 +1,13 @@
+.color
+{
+    background-color: #1ABC9C;
+    color: white;
+    text-align: center;
+    height: 80vh;
+}
+h2
+{
+    font-weight:700 ;
+    font-size: 40px;
+    padding-top: 150px;
+}

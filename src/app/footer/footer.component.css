@@ -1,0 +1,16 @@
+.color
+{
+    background-color: #2C3E50;
+    color: white;
+}
+.space .col-md-2 > svg
+{
+    border: 1px solid white;
+    border-radius: 50% 50%;
+}
+.color2
+{
+    height: 60px;
+    color: white;
+    background-color: #1A252F;
+}
